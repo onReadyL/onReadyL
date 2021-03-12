@@ -1,6 +1,7 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onReadyL&layout=compact" align="right" style="width: 12px" />
+- 😄 Hi, there!
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onReadyL&layout=compact&hide_title=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=onReadyL&show_icons=true&icon_color=805AD5&text_color=718096&hide_title=false&bg_color=FFFFFF&theme=merko" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=onReadyL&show_icons=true&icon_color=805AD5&text_color=718096&hide_title=true&bg_color=FFFFFF&theme=merko" />
 
 <!--
 **onReadyL/onReadyL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
